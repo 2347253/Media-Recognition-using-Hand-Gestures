@@ -1,4 +1,4 @@
-opencv-python-headless==4.5.4.58
+opencv-python-headless==4.9.0.80
 numpy
 av==11.0.0
 mediapipe
