@@ -1,1 +1,10 @@
 opencv-python-headless==4.5.4.58
+numpy
+av
+mediapipe
+pycaw
+streamlit
+pandas
+plotly
+comtypes
+streamlit-webrtc==0.17.0
