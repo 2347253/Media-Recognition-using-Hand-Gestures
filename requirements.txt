@@ -1,6 +1,6 @@
 opencv-python-headless==4.5.4.58
 numpy
-av==8.0.3
+av==11.0.0
 mediapipe
 pycaw
 streamlit
