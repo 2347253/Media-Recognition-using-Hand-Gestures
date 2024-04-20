@@ -32,7 +32,7 @@ Media Control with Hand Gestures is an innovative project that allows users to i
 ![Screenshot 4 - Stop](scr4.png)
 *Screenshot 4 - Stop*
 
-## About Us
+## About Me
 This project is developed by ST.
 
 ---
